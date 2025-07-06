@@ -134,7 +134,8 @@ h2,p{
     width: 100%;
   }
 }
- @media (max-width:1200px){
+
+@media (max-width:1200px){
   body > .container{
     align-items: center;
   }
